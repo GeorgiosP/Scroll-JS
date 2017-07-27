@@ -11,6 +11,6 @@ Add an Id to the element you want users to click and specify the Id you want to 
 If you'd like to contribute, Follow the instruction below
 * Fork the repository, make your desired changes
 * Pull request to upstream: https://github.com/GeorgiosP/Scroll-JS.git
-* Do not hesitate to create Issues for enhancements and feedback it's always appreciated
+* Don't hesitate to create Issues for enhancements and feedback it's always appreciated
 ### Licence ###
 Scroll-JS is under the MIT Licence
