@@ -1,5 +1,5 @@
 # Scroll-JS
-[![Code Climate](https://img.shields.io/codeclimate/github/kabisaict/flow.svg)](https://codeclimate.com/github/GeorgiosP/Scroll-JS)
+
 ### What is Scroll-JS? ###
 Scroll-JS is a fast, lighweight way to get scroll to location on your website with little hastle.
 ### Usage ###
